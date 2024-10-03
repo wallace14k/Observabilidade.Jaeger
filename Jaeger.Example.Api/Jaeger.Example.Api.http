@@ -1,0 +1,6 @@
+@Jaeger.Example.Api_HostAddress = http://localhost:5084
+
+GET {{Jaeger.Example.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
